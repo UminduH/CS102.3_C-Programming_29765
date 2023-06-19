@@ -4,7 +4,7 @@ int main()
 {
     float r;
     char ques;
-    const pi = 3.14159;
+    const float pi = 3.14159;
 
     printf("Do you want to calculate:\n");
     printf("Enter 'C' to find the Circumference of a circle?\n");
